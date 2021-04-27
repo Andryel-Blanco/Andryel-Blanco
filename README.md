@@ -2,8 +2,7 @@
 
 
 
-- 🌱 I’m currently learning HTML, CSS, JS, React
+- 🌱 I’m currently learning HTML, CSS, JS, Vue
 - 💬 Ask me about C#
-- 📫 How to reach me: @Andryel_Blanco
-
+- 📫 How to reach me: @Andryel_Blanco 
 
